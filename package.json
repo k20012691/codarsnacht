@@ -1,0 +1,21 @@
+{
+    "name": "codarsnacht",
+    "displayName": "codarsnacht",
+    "description": "A high contrast, dark mode theme for VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "codarsnacht",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codarsnacht-color-theme.json"
+            }
+        ]
+    }
+}
