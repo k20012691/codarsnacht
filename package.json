@@ -3,6 +3,7 @@
     "displayName": "codarsnacht",
     "description": "A high contrast, dark mode theme for VS Code.",
     "version": "0.0.1",
+    "publisher": "Vedeesh-Bali",
     "engines": {
         "vscode": "^1.61.0"
     },
