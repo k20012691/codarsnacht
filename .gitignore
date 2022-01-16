@@ -1,5 +1,8 @@
 node_modules
 *.vsix
+**/.vscode/
+.gitattributes
+vsc-extension-quickstart.md
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos,node
