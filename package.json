@@ -1,8 +1,9 @@
 {
     "name": "codarsnacht",
     "displayName": "codarsnacht",
-    "description": "A high contrast, dark mode theme for VS Code.",
-    "version": "0.0.3",
+    "description": "A high contrast theme for VS Code to support your late-night programming sessions.",
+    "icon": "codarsnacht-logo.png",
+    "version": "0.0.4",
     "publisher": "Vedeesh-Bali",
     "engines": {
         "vscode": "^1.61.0"
