@@ -9,7 +9,14 @@
 		"titleBar.activeBackground": "#000000",
 		"sideBar.background": "#000000",
 		"activityBar.activeBackground": "#17004d",
-		"activityBar.background": "#131313"
+		"activityBar.background": "#131313",
+		"statusBar.background": "#17004d",
+		"menu.background": "#111111",
+		"editor.selectionBackground": "#17004d",
+		"menu.selectionBackground": "#17004d",
+		"list.hoverBackground": "#17004d",
+		"list.activeSelectionBackground": "#17004d",
+		"icon.foreground": "#aedbff"
 	},
 	"tokenColors": [
 		{
